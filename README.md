@@ -597,24 +597,12 @@ kubectl logs -n medic-booking-prod -l app=kafka
 
 ---
 
-## 👤 Auteur
-
-**Votre Nom**
-- GitHub : [@yasminjammeli](https://github.com/yasminjammeli)
-- Email : yasmina.jammeli@polytechnicien.tn
-
-
----
-
-## 📄 Licence
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
 
 
 
----
 
-**🎉 Projet réalisé dans le cadre du cours DevOps 2025-2026**
-"# devOps_k8s" 
+
+
+
+
+
